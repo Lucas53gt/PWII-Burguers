@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "nome": "Hamburguer",
+    "descricao": "Hamburguer, queijo, alface e tomate",
+    "preco": 12
+  },
+  {
+    "id": 2,
+    "nome": "Hamburguer cremoso",
+    "descricao": "Hamburguer, queijo, alface e tomate e bacon",
+    "preco": 15
+  },
+  {
+    "id": 3
+  },
+  {
+    "id": 4,
+    "nome": "Hamburguer bom",
+    "descricao": "4 Hamburguer, queijo, alface e tomate",
+    "preco": 12
+  },
+  {
+    "id": 5,
+    "nome": "Hamburguer especial",
+    "descricao": "Hamburguer, queijo, alface e tomate e bacon e ovo",
+    "preco": 20
+  },
+  {
+    "id": 6,
+    "nome": "Hamburguer",
+    "descricao": "Hamburguer, queijo, alface e tomate",
+    "preco": 12
+  },
+  {
+    "id": 7,
+    "nome": "Hamburguer",
+    "descricao": "Hamburguer, queijo, alface e tomate",
+    "preco": 23
+  }
+]

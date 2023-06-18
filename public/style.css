@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, button {
+  margin-top: 5px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+}
+
+th {
+  background-color: #f0f0f0;
+}
+
+.menu-item {
+  background-color: #f9f9f9;
+}
+
+.menu-item:nth-child(even) {
+  background-color: #f0f0f0;
+}
+
+.menu-item td {
+  padding: 8px;
+}
+
+.menu-item .item-id {
+  width: 50px;
+}
+
+.menu-item .item-name {
+  font-weight: bold;
+}
+
+.menu-item .item-price {
+  font-weight: bold;
+  color: #c00;
+}
+
+.menu-item .item-description {
+  color: #777;
+}
